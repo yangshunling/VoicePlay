@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yangsl25774\Desktop\VoicePlay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\yangsl25774\Desktop\VoicePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_52ec321214828d0d3f8c5d79601f792638343660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yangsl25774\Desktop\VoicePlay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="623df7b64bf86f06e5c5bc484e0af6d50043212e">
+        <dex dex="C:\Users\yangsl25774\Desktop\VoicePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_887b6558d922f8586ec84abf04c1d1ce5d71639c\classes.dex" />
+    </item>
+
+</items>
